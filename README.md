@@ -17,4 +17,4 @@ A simple weather application that allows users to check the current weather and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Warrenchris/Weather-App.git
